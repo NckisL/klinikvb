@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|d:\\nico\\kuliah\\semester 2\\algoritma dan pemrograman\\klinikapp\\mdldatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|solutionrelative:mdldatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|d:\\nico\\kuliah\\semester 2\\algoritma dan pemrograman\\klinikapp\\frmpasien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|solutionrelative:frmpasien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|d:\\nico\\kuliah\\semester 2\\algoritma dan pemrograman\\klinikapp\\frmdokter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|solutionrelative:frmdokter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|d:\\nico\\kuliah\\semester 2\\algoritma dan pemrograman\\klinikapp\\frmdokter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|solutionrelative:frmdokter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|d:\\nico\\kuliah\\semester 2\\algoritma dan pemrograman\\klinikapp\\frmdataklinik.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{76B6C502-F0AF-40F2-9CAE-5803DE186A76}|KlinikApp.vbproj|solutionrelative:frmdataklinik.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mdlDatabase.vb",
+              "DocumentMoniker": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\mdlDatabase.vb",
+              "RelativeDocumentMoniker": "mdlDatabase.vb",
+              "ToolTip": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\mdlDatabase.vb",
+              "RelativeToolTip": "mdlDatabase.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-16T09:25:35.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPasien.vb",
+              "DocumentMoniker": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\frmPasien.vb",
+              "RelativeDocumentMoniker": "frmPasien.vb",
+              "ToolTip": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\frmPasien.vb",
+              "RelativeToolTip": "frmPasien.vb",
+              "ViewState": "AgIAALAAAAAAAAAAAAAYwMoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-16T09:25:30.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDokter.vb",
+              "DocumentMoniker": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\frmDokter.vb",
+              "RelativeDocumentMoniker": "frmDokter.vb",
+              "ToolTip": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\frmDokter.vb",
+              "RelativeToolTip": "frmDokter.vb",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAgwM0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-16T09:25:22.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDokter.vb [Design]",
+              "DocumentMoniker": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\frmDokter.vb",
+              "RelativeDocumentMoniker": "frmDokter.vb",
+              "ToolTip": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\frmDokter.vb [Design]",
+              "RelativeToolTip": "frmDokter.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-16T09:24:55.12Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDataKlinik.vb [Design]",
+              "DocumentMoniker": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\frmDataKlinik.vb",
+              "RelativeDocumentMoniker": "frmDataKlinik.vb",
+              "ToolTip": "D:\\Nico\\Kuliah\\Semester 2\\Algoritma dan Pemrograman\\KlinikApp\\frmDataKlinik.vb [Design]",
+              "RelativeToolTip": "frmDataKlinik.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-16T09:24:52.561Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
